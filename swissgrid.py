@@ -72,7 +72,7 @@ maxAbweichungFreq=0.5 # 50Hz +/-0.5
 # Variable, um den Zeitpunkt des letzten E-Mail-Versands zu speichern
 last_email_sent = None
 
-to_addresses = ['sch@dler.ch', 'retoschad@gmail.com']
+to_addresses = ['email1@yourproviderabc.com', 'email2@yourproviderabc.com']
 
 while True:
     try:
